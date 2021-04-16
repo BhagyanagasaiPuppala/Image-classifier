@@ -47,6 +47,3 @@ if upload is not None:
           st.write("Bean plant is diseased with bean rust")
         else:
           st.write('Bean plant is healthy')
-    
-   
- 
