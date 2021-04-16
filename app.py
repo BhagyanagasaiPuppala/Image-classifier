@@ -11,6 +11,7 @@ import cv2
 from keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.models import load_model
 
+@st.cache()
 
 
 st.title("Bean Disease Detection and Classifier App")
